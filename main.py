@@ -24,7 +24,7 @@ if __name__ == '__main__':
     load_data('new_data/new_movies_revenues.csv','movies_revenues')
     load_data('new_data/new_netflix_library.csv','netflix_library')
     load_data('new_data/new_netflix_engagement_report.csv','engagement_report')
-
+    print("Data added to postgresql")
 
 
 
