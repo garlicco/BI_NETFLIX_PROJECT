@@ -3,7 +3,7 @@ from sqlalchemy.orm import relationship
 from database import Base
 
 class NetflixEngagement(Base):
-    __tablename__ = 'netflix_engagement'
+    __tablename__ = 'fact_netflix_engagement'
 
     engagement_id = Column(Integer, primary_key=True)
     title = Column(String)
