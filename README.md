@@ -11,7 +11,7 @@ uncover insights into customer behavior and preferences.
 
 ## 1. Clone the repository with github
 
-## 2.Open repo with your preferred IDE, visual studio code is a suitable option
+## 2. Open repo with your preferred IDE, visual studio code is a suitable option
 
 ## 3. Open a terminal and type 
 
@@ -20,7 +20,8 @@ pip install -r requirements
 ```
 
 ## 4. Open postgresql and set up your database in the database.py file under the following URL
-"postgresql://<username>:<passord>@<hostnme>/<databa_sename>"
+
+>"postgresql://<username>:<passord>@<hostnme>/<databa_sename>"
 
 ## 5. run this command in your terminal to load data inside postgresql
 
