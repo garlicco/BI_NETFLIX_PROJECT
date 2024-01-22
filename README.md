@@ -21,7 +21,7 @@ pip install -r requirements
 
 ## 4. Open postgresql and set up your database in the database.py file under the following URL
 
->"postgresql://<username>:<passord>@<hostnme>/<databa_sename>"
+>"postgresql://<'username'>:<'passord'>@<'hostnme'>/<'database_name'>"
 
 ## 5. run this command in your terminal to load data inside postgresql
 
